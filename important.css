@@ -28,7 +28,7 @@ background-color: white;
 
 
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 700px)
 nav{display: flex;
     flex-direction: column;
 }
@@ -39,12 +39,10 @@ nav{display: flex;
 ==========================================
 */
 .counter-section{
-    background-color: var(--primary-color);
+    background-color:coral;
     padding:2.5rem 0;
   }
   .counter-section p{
-    color:var(--white-color);
+    color:white;
     text-transform: uppercase;
   }
-   
-  
